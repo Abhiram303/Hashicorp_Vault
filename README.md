@@ -1,5 +1,5 @@
 # Hashicorp_Vault
-# Vault Integration
+## Vault Integration
 
 Here are the detailed steps for each of these steps:
 
